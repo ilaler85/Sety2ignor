@@ -1,0 +1,7 @@
+C:\Users\ivano\source\repos\Task2UDPClient\Task2UDPClient\bin\Debug\Task2UDPClient.exe.config
+C:\Users\ivano\source\repos\Task2UDPClient\Task2UDPClient\bin\Debug\Task2UDPClient.exe
+C:\Users\ivano\source\repos\Task2UDPClient\Task2UDPClient\bin\Debug\Task2UDPClient.pdb
+C:\Users\ivano\source\repos\Task2UDPClient\Task2UDPClient\obj\Debug\Task2UDPClient.csprojAssemblyReference.cache
+C:\Users\ivano\source\repos\Task2UDPClient\Task2UDPClient\obj\Debug\Task2UDPClient.csproj.CoreCompileInputs.cache
+C:\Users\ivano\source\repos\Task2UDPClient\Task2UDPClient\obj\Debug\Task2UDPClient.exe
+C:\Users\ivano\source\repos\Task2UDPClient\Task2UDPClient\obj\Debug\Task2UDPClient.pdb
